@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Vamsi mohan reddy! 👋
 
-<!--
-**vamsimohanreddykommaddi/vamsimohanreddykommaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 I'm a recent B.Tech graduate passionate about technology and software development.
+🌱 As an entry-level software developer, I'm eager to tackle challenging problems and contribute to impactful projects.
 
-Here are some ideas to get you started:
+## Skills
+- *Programming Languages:* Python, Core Java, Basics of C#, JavaScript, PHP
+- *Web Development:* HTML, CSS
+- *Database Management:* SQL
+- *Tools & Technologies:* Linux(RHEL), Git, Microsoft Excel, PowerPoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Check out my Academic Projects
+- https://github.com/vamsimohanreddykommaddi/Hybrid-Cryptography-System-for-Secure-Communication
+- https://github.com/vamsimohanreddykommaddi/Intrusion-Detection-System-using-Machine-Learning-Techniques
+- https://github.com/vamsimohanreddykommaddi/Coder-Blog
+
+## Connect with Me
+- *LinkedIn:* https://www.linkedin.com/in/vamsimohanreddykommaddi/
+
+---
+
+I'm always looking to grow and learn new things. Let's collaborate and build something amazing together!
