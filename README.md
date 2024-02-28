@@ -5,9 +5,9 @@
 🌱 As an entry-level software developer, I'm eager to tackle challenging problems and contribute to impactful projects.
 
 ## Skills
-- *Programming Languages:* Python, Core Java, Basics of C#, JavaScript, PHP
+- *Programming Languages:* Python, Core Java, Basics of C#, JavaScript, PHP, SQL
 - *Web Development:* HTML, CSS
-- *Database Management:* SQL
+- *Database Management:* MySQL
 - *Tools & Technologies:* Linux(RHEL), Git, Microsoft Excel, PowerPoint
 
 ## Projects
