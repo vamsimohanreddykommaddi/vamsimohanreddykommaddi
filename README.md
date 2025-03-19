@@ -17,8 +17,8 @@
 - [Election Ad Spending Analysis](https://github.com/vamsimohanreddykommaddi/Election-Ad-Spending-Analysis) – Analyzed political ad spending impact on voter turnout using Python.
 
 ### 🌐 Web Development Projects
-- [Coder Blog](https://github.com/vamsimohanreddykommaddi/Coder-Blog) – Developed a web-based platform for competitive programming challenges.
-- [Hybrid Cryptography System](https://github.com/vamsimohanreddykommaddi/Hybrid-Cryptography-System-for-Secure-Communication) – Implemented a secure communication system using hybrid encryption techniques.
+- [Coder Blog](https://github.com/vamsimohanreddykommaddi/Coder-Blog) – Developed a web-based platform for assignment submissions.
+- [Hybrid Cryptography System](https://github.com/vamsimohanreddykommaddi/Hybrid-Cryptography-System-for-Secure-Communication) – Implemented a desktop application to demonstrate secure communication system using hybrid encryption techniques.
 
 Let’s connect and collaborate on exciting projects! 🚀
 
